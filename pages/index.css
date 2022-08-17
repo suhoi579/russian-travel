@@ -1,0 +1,47 @@
+/* normalize */
+@import url(../vendor/normalize.css);
+/* fonts */
+@import url(../vendor/fonts.css);
+/* page */
+@import url(../bloks/page/page.css);
+/* header */
+@import url(../bloks/header/header.css);
+@import url(../bloks/header/__logo/header__logo.css);
+@import url(../bloks/header/__lang-links/header__lang-links.css);
+@import url(../bloks/header/__lang-link/header__lang-link.css);
+@import url(../bloks/header/__lang-link/_underline/header__lang-link_underline.css);
+/* lead */
+@import url(../bloks/lead/lead.css);
+@import url(../bloks/lead/__title/lead__title.css);
+@import url(../bloks/lead/__subtitle/lead__subtitle.css);
+@import url(../bloks/lead/__image/lead__image.css);
+@import url(../bloks/lead/__captoin/lead__caption.css);
+/* intro */
+@import url(../bloks/intro/intro.css);
+@import url(../bloks/intro/__title/intro__title.css);
+@import url(../bloks/intro/__text/intro__text.css);
+@import url(../bloks/intro/__list/intro__list.css);
+@import url(../bloks/intro/__list-item/intro__list-item.css);
+/* photo-grid */
+@import url(../bloks/photo-grid/photo-grid.css);
+@import url(../bloks/photo-grid/__item/photo-grid__item.css);
+/* places */
+@import url(../bloks/places/places.css);
+@import url(../bloks/places/__place/places__place.css);
+@import url(../bloks/places/__title/palces__title.css);
+@import url(../bloks/places/__image/places__image.css);
+@import url(../bloks/places/__website/places__website.css);
+@import url(../bloks/places/__url-heading/places__url-heading.css);
+@import url(../bloks/places/__link/places__link.css);
+@import url(../bloks/places/__paragraph/places__paragraph.css);
+/* cover */
+@import url(../bloks/cover/cover.css);
+@import url(../bloks/cover/__overlay/cover__overlay.css);
+@import url(../bloks/cover/__background/cover__background.css);
+@import url(../bloks/cover/__title/cover__title.css);
+@import url(../bloks/cover/__subtitle/cover__subtitle.css);
+/* footer */
+@import url(../bloks/footer/footer.css);
+@import url(../bloks/footer/__navigation/footer__navigation.css);
+@import url(../bloks/footer/__link/footer__link.css);
+@import url(../bloks/footer/__copyright/footer__copyright.css);
