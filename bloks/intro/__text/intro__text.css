@@ -8,6 +8,12 @@
     margin-bottom: 33px;
 }
 
+@media screen and (max-width: 1023px) {
+    .intro__text {
+        max-width: 720px;
+    }
+}
+
 @media screen and (max-width: 767px) {
     .intro__text {
         margin-bottom: 34px;

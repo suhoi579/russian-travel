@@ -16,12 +16,14 @@
 @import url(../bloks/lead/__subtitle/lead__subtitle.css);
 @import url(../bloks/lead/__image/lead__image.css);
 @import url(../bloks/lead/__captoin/lead__caption.css);
+@import url(../bloks/lead/__figure/lead__figure.css);
 /* intro */
 @import url(../bloks/intro/intro.css);
 @import url(../bloks/intro/__title/intro__title.css);
 @import url(../bloks/intro/__text/intro__text.css);
 @import url(../bloks/intro/__list/intro__list.css);
 @import url(../bloks/intro/__list-item/intro__list-item.css);
+@import url(../bloks/intro/__span-accent/intro__span-accent.css);
 /* photo-grid */
 @import url(../bloks/photo-grid/photo-grid.css);
 @import url(../bloks/photo-grid/__item/photo-grid__item.css);
