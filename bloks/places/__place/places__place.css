@@ -3,7 +3,7 @@
     margin: 0 auto;
     padding: 0;
     display: grid;
-    grid-template-columns: 460px 484px;
+    grid-template-columns: 460px 1fr;
     grid-template-rows: minmax(min-content, max-content) 460px;
     grid-template-areas:
         "title website"
@@ -14,7 +14,7 @@
 
 @media screen and (max-width: 1279px) {
     .places__place {
-        grid-template-columns: 440px 456px;
+        grid-template-columns: 440px 1fr;
         grid-template-rows: minmax(min-content, max-content) 440px;
         column-gap: 32px;
     }
@@ -22,7 +22,7 @@
 
 @media screen and (max-width: 1023px) {
     .places__place {
-        grid-template-columns: 340px 352px;
+        grid-template-columns: 340px 1fr;
         grid-template-rows: repeat(2, minmax(min-content, max-content));
         column-gap: 28px;
     }
